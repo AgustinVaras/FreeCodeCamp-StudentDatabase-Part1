@@ -1,2 +1,4 @@
 ./insert_data.sh
 ./insert_data.sh
+-ls
+ls --color=auto
